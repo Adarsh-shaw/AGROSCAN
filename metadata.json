@@ -1,0 +1,9 @@
+{
+  "name": "AgroScan Pro",
+  "description": "Professional plant pathology suite with geolocation-aware risk assessment, community outbreak radar, and voice-activated agronomy.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation",
+    "microphone"
+  ]
+}
